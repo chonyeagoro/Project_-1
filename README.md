@@ -11,10 +11,15 @@ Structure of the Study
 We follow a straightforward six-step analysis approach: asking questions, preparing the data, processing it, conducting the analysis, sharing findings, and recommending actions. Here’s a brief outline:
 
 Objective: We start by clearly defining what we aim to achieve with this analysis.
+
 Data Source: Next, we explain where our data comes from and why it’s reliable.
+
 Data Prep: We detail how we've cleaned and organized the data for analysis.
+
 Analysis: We present our analysis, supported by visual aids, to highlight key trends and figures.
+
 Findings: We summarize our main discoveries and offer insights for data professionals.
+
 Next Steps: Lastly, we suggest areas for further research or action based on our findings.
 
 Goal of this Project
@@ -28,16 +33,27 @@ Goal of this Project
 Columns Used for the Analysis
 
 work_year: Indicates the year the salary information was gathered.
+
 job_title: Describes the specific role, such as ‘Data Scientist’, ‘Data Engineer’, or ‘Data Analyst’.
+
 job_category: Groups job titles into broader segments for simplified analysis.
+
 salary_currency: Identifies the currency used for salary payments, including but not limited to USD and EUR.
+
 salary: Lists the annual gross income for the role in the respective local currency.
+
 salary_in_usd: Converts the gross annual salary to US Dollars (USD), facilitating a standardized comparison of salaries worldwide.
+
 employee_residence: Specifies the employee’s country of residence.
+
 experience_level: Categorizes the employee’s level of professional experience into segments like ‘Entry-level’, ‘Mid-level’, ‘Senior’, and ‘Executive’.
+
 employment_type: Details the nature of the employment contract, which may be ‘Full-time’, ‘Part-time’, or ‘Contract’.
+
 work_setting: Describes the employment setting, which could be ‘Remote’, ‘In-person’, or ‘Hybrid’.
+
 company_location: Denotes the country in which the employing company is based.
+
 company_size: Reflects the scale of the employing organization, typically classified as small (S), medium (M), or large (L).
 
 
