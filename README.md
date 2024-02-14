@@ -62,7 +62,7 @@ Research Questions
 2. Find the distribution of the mean salary for the top 5 job titles in the given four years and then  represent the result distribution in percentages.
 3. Analyze the data set provided and provide the top 5 job titles based on the job category count in the 4  years given.
 4. How have the number of jobs in the job category evolved annually across different company locations from 2020 to 2023?
-5. What are the salary trends across different job titles and categories, and how do these trends reflect on the average, median, minimum, and maximum salaries?
+5. How does the average salary of Data Analysts in the United States vary by company size, work setting, and experience level??
 
 Data Set Analysis Process
 
