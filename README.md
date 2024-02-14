@@ -77,15 +77,19 @@ Career Insights: Showed us  the growth in various job titles and categories, the
 Popular Data Jobs:  Helped Identify the different data roles that are in demand.
 
 
-Grouping data by 'year', 'job_location', and 'job_category' and counting occurrences helped us see:
+Specific job title in United States  Creating a summary table grouped by work setting, company size, and experience level
 
-Trends Over Time: How the growth of different data jobs changed each year.
+Filtering: Narrowing down to full-time Data Analyst positions in the U.S.
 
-Where Jobs Are: Which country had more data jobs based on the job category.
+Aggregating: Calculating average salaries by work setting, company size, and experience level.
 
-Popular Roles: What types of data jobs are common and how these trends have changed over time.
+Transforming: Adjusting salary figures for readability.
 
-Job Insights: Showed us where these jobs were located which also highlighted  the progressive growth or lack thereof of the job categories. This provided a great insight as far as career path decisions.
+Combining Categories: Merging 'company size' and 'work setting' for simplified analysis.
+
+Visualizing: Creating a heatmap to display how different factors affect salaries.
+Interpreting: Noting key findings, especially the significant impact of experience level on salaries.
+
 
 Challenges Encountered
 - Trying to figure out what type of graph would best represent the data. 
