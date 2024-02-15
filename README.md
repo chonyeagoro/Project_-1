@@ -116,5 +116,17 @@ Data Source
 
 This dataset, titled “Jobs and Salaries in Data Science,” is sourced from https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/download?datasetVersionNumber=6. It compiles data from both internal survey submissions and openly disclosed job salaries. 
 
+Key insights and Recommendations
+
+The more experience you have, the more money you usually make. This is especially true for jobs in Machine Learning and AI, where pay can go from $93,000 for beginners to $207,000 for top positions.
+
+The best-paying jobs in data are in Machine Learning and AI, Data Science and Research, Data Engineering, and Leadership roles. Data Analyst jobs pay well, but there are other data jobs that pay more.
+
+Jobs in BI (Business Intelligence) and Visualization pay a bit more than Data Analysis jobs, even though they often require similar skills and job duties.
+
+If you're starting out as a Data Analyst, the best countries for salary are the United States ($77,000), the United Kingdom ($58,000), and Germany ($57,000). But remember, this doesn't consider how expensive it is to live in these countries.
+
+Whether you work in an office or from home doesn't really change how much you get paid. But, not many people in the study work in a mix of both, so it's hard to say for sure.
+
 
 
